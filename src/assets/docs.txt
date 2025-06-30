@@ -1,0 +1,180 @@
+🔵 User Side (Guests & Hosts - Shared)
+Splash Screen
+Intro / Welcome Screens (optional onboarding)
+Sign Up / Sign In Screen
+Email / Phone / Social Login
+
+(Home Screen)
+Featured Events / Popular Parties
+Search Bar (location-based)
+Filter Panel (date, price, event type)
+
+(Event Details Page)
+Photos, Description, Host Info
+RSVP / Request to Join / Buy Ticket
+Price, Time, Location
+Guest List Preview
+
+(Booking / RSVP Screen)
+Payment Screen
+Booking Confirmation Screen
+Waitlist Screen (if event is full)
+
+🟢 Guest Mode – My Events Section
+
+My Events (Guest)
+Upcoming Events
+Past Events / History
+
+Invites / Confirmations / Reminders
+Notifications Screen
+(User Profile)
+Personal Info
+Preferences
+Payment Methods
+Settings Screen
+
+🟠 Host Mode – Extra Screens for Hosts
+
+Host Dashboard
+Overview of Events, Earnings, Attendees
+
+(Create Event Screen)
+Event Details: Name, Type, Date, Time, Price
+Location Picker (Map or Manual)
+Upload Photos
+Set Capacity, Categories
+Public vs Private toggle
+
+(Host Event Management)
+Edit Event
+View Attendees
+Approve Requests (if private)
+Cancel / Reschedule Options
+
+(Host Earnings / Payouts Screen)
+Track Income
+Setup Payment Method
+View Payout History
+
+Terms & Conditions Agreement
+Accept 22% Fee Checkbox
+
+(Host Notifications)
+New Bookings
+Payment Received
+Updates on Attendee Activity
+
+
+⚫️ Admin Side (Optional / Future)
+Admin Dashboard
+Manage Users
+Approve / Suspend
+
+Manage Events
+Review / Remove Inappropriate
+
+Transactions Overview
+Earnings, Disputes, Payouts
+
+Content Management
+Edit FAQs, Terms, Legal
+
+
+🟣 Other Functional Screens (Optional but Useful)
+Chat / Messaging Screen
+Host <-> Guest Inquiries
+
+Help & Support
+Contact Support
+FAQs
+
+Reviews & Ratings Screen
+Guests leave feedback
+Hosts view reviews
+
+Invite Friends / Referral Screen
+Social Sharing Screen (Share Event)
+Onboarding for Hosts (Before Creating First Event)
+
+Legal Pages
+Terms & Conditions
+Privacy Policy
+
+
+
+App Start
+│
+├── Splash Screen
+├── Welcome / Onboarding
+│   └── Login / Sign Up
+│       ├── Email / Phone / Social Login
+│       └── Forgot Password
+│
+└── Home Screen
+    ├── Search & Filters
+    ├── Event List
+    │   └── Event Details
+    │       ├── RSVP / Buy Ticket
+    │       └── Payment → Confirmation / Waitlist
+    │
+    ├── My Events (Guest)
+    │   ├── Upcoming Events
+    │   ├── Past Events
+    │   └── Notifications
+    │
+    ├── Profile
+    │   ├── Edit Info
+    │   ├── Payment Methods
+    │   └── Settings
+    │
+    ├── Host Mode
+    │   ├── Host Dashboard
+    │   ├── Create Event
+    │   ├── Event Management
+    │   ├── Host Earnings
+    │   └── Host Notifications
+    │
+    ├── Chat / Support
+    ├── Legal Pages
+    └── Invite / Referral
+
+
+
+
+🧩 2. Wireframe Layout Suggestions (Key Screens)
+🔹 Home Screen
+Top: Search bar, filter icon
+Body: Featured Events (carousel)
+Below: Event list cards (image, name, price, date)
+Bottom Tab Bar: Home | My Events | Create | Inbox | Profile
+
+🔹 Event Details
+Image carousel
+Title, Date, Time, Location (with map)
+Host profile + contact
+Description, Categories
+Button: "RSVP" / "Buy Ticket"
+Optional: Guest list, Social Share
+
+🔹 Create Event (Host)
+Step 1: Basic Info (name, category, date/time)
+Step 2: Location (map input or address)
+Step 3: Photos upload
+Step 4: Ticket Price, Capacity, Public/Private
+Step 5: Preview & Submit
+
+🔹 Booking Confirmation
+Summary: Event Name, Time, Price
+QR Code (optional)
+Add to Calendar button
+Share button
+
+🔹 Host Dashboard
+Summary Cards: Earnings | Attendees | Upcoming Events
+Action Buttons: Create New Event | View Payouts
+
+🔹 Chat
+List of Conversations
+Chat Window (threaded messages)
+Option to send images or links

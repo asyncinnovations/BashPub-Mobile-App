@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "393050002237",
+    "project_id": "bashpub-37f9b",
+    "storage_bucket": "bashpub-37f9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393050002237:android:0671040b4abb08a0f72b54",
+        "android_client_info": {
+          "package_name": "com.bashpub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393050002237-2d1c9q2vam3db914uh37bpm32g3eotpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bashpub",
+            "certificate_hash": "cb2ed869e0af892c5f6a89f4918f470ec5a16f23"
+          }
+        },
+        {
+          "client_id": "393050002237-rmma4ffm3ecmrcumnt17g0nk3tj83t3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bashpub",
+            "certificate_hash": "d5de26299096e52a38f47c054ddc59165dbccc9c"
+          }
+        },
+        {
+          "client_id": "393050002237-382rt7sthuvhdul8c828gsl83rtgo92d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdV6fzUOyrqi0EbMDdiI4PXuuTFL7too"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393050002237-382rt7sthuvhdul8c828gsl83rtgo92d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

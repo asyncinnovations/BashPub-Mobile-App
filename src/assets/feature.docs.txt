@@ -1,0 +1,52 @@
+HOST EVENT CREATION SCREEN
+we will Add Later
+DatePicker & TimePicker components
+A ticket form section (General/VIP split, with price)
+Image upload or event banner
+Form validation before submit
+
+HOST MY EVENT SCREEN
+we will Add Later
+Pagination or infinite scroll
+Filter by event status
+Swipe-to-delete
+View/Edit navigation on button press
+
+HOST GUEST LIST SCREEN
+we will Add Later
+Group guests by ticket type
+Add Checked In toggle
+Add search/filter by name or status
+Swipe-to-remove or update
+
+
+HOST INVITATIONS SCREEN
+we will Add Later
+Invite new guests (email input + send button)
+Filter by event or status
+Show timestamps for when the invite was sent or responded
+
+TICKET SALES SCREEN
+we will Add Later
+Filter by event or date range
+Display a line or bar chart for ticket sales trends (we can use react-native-chart-kit)
+Add export to CSV option
+Show refund breakdown if applicable
+
+EARNING OVERVIEW SCREEN
+we will Add Later
+Add filter by month or year
+Show Stripe payout details or export to PDF/CSV
+Add line chart for monthly income (use react-native-chart-kit)
+
+HOST SETTINGS SCREEN
+we will Add Later
+Add Save Changes or auto-save toggle states
+Show connected Stripe account status
+Add Change Password shortcut
+
+HOST SUPPORT SCREEN
+we will Add Later
+Add category dropdown (Payments, Event Help, Account)
+Use Toast or Snackbar for feedback
+Save message in database or send to support email
